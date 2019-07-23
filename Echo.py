@@ -1,0 +1,7 @@
+user = input("say something ")
+print ("upper: ")
+print (user.upper())
+print ("lower:")
+print (user.lower())
+print ("swapcase:")
+print (user.swapcase())
